@@ -1,2 +1,3 @@
-# my_first_checkers
-Basic game of checkers. May be widened later on
+# My first game: Checkers
+A basic application where you can play (for now) checkers.
+More different types to be added later on.
